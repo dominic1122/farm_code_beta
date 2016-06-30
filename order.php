@@ -19,7 +19,7 @@ session_start();
 <body ontouchstart>
 
 <div class="hd">
-	<h1 class="page_title" style="font-size:30px"><img src="../supermario.png" height=35 width=35 />新增订单</h1>
+	<h1 class="page_title" style="font-size:30px"><img src="../supermario.png" height=35 width=35 />新增订单<img src="../beta.png" height=25 width=25 /></h1>
 </div>
 
 <form action="new_order.php" method="post">
@@ -69,7 +69,7 @@ session_start();
 		<div class="weui_cell">
 			<div class="weui_cell_hd"><label class="weui_label">备用联系电话</label></div>
 			<div class="weui_cell_bd weui_cell_primary">
-				<input class="weui_input" type="text" name="bak_moible" pattern="^1[345678][0-9]{9}$" maxlength=11 placeholder="(选填)如：13612348889"/>
+				<input class="weui_input" type="text" name="bak_mobile" pattern="^1[345678][0-9]{9}$" maxlength=11 placeholder="(选填)如：13612348889"/>
 			</div>
 		</div>
 

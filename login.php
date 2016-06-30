@@ -46,6 +46,9 @@
         <a href="register.php" class="weui_btn weui_btn_plain_primary">没有账号，3秒注册</a>
         <a href="reset_pass.html" class="weui_btn weui_btn_plain_default">忘记密码，请点这里</a>
 </div>
+
+<br> <br>
+<!--a href="order_out.php" style="font-size:13px;color:blue;text-align:left;margin-left:10px"><i class="weui_icon_download"></i>下载订单列表(仅限管理员账号)</a-->
 <br> <br>
 
 </body>
